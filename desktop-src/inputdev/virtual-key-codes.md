@@ -6,7 +6,7 @@ topic_type:
 - apiref
 api_name:
 - VK_LBUTTON
-- VK_RBUTTON
+- à
 - VK_CANCEL
 - VK_MBUTTON
 - VK_XBUTTON1
